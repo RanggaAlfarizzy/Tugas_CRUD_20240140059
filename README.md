@@ -78,7 +78,7 @@ http://localhost:8080
 
 Menampilkan halaman utama aplikasi untuk input dan melihat data KTP.
 
-![Tampilan Web]()
+![Tampilan Web](![Tampilan Web](tampilan-web.png)
 
 ---
 
@@ -86,7 +86,7 @@ Menampilkan halaman utama aplikasi untuk input dan melihat data KTP.
 
 Setelah data berhasil ditambahkan, sistem akan menampilkan **popup notifikasi bahwa data berhasil ditambahkan**.
 
-![Popup Berhasil](screenshots/popup-berhasil.png)
+![Popup Berhasil](popup-berhasil.png))
 
 ---
 
