@@ -94,6 +94,8 @@ Popup muncul ketika data berhasil dihapus dari database.
 
 ![Popup Berhasil dihapus](berhasil-dihapus.png)
 
+![Popup Berhasil dihapus](tada.png)
+
 ---
 
 ## Author
