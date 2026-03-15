@@ -88,6 +88,12 @@ Setelah data berhasil ditambahkan, sistem akan menampilkan **popup notifikasi ba
 
 ![Popup Berhasil](pup-up-berhasil.png)
 
+### 3. Feedback Setelah Menghapus Data
+
+Popup muncul ketika data berhasil dihapus dari database.
+
+![Popup Berhasil dihapus](berhasil-dihapus.png)
+
 ---
 
 ## Author
